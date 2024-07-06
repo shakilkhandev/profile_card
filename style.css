@@ -62,7 +62,6 @@ body{
     cursor: pointer;
 }
 
-
 .imgbox{
     z-index: 999;
     width: 10rem;
@@ -89,8 +88,6 @@ body{
         filter: none;
     }
 }
-
-
 /* main image  */
  
 .imgbox :hover{
