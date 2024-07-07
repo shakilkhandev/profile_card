@@ -57,7 +57,7 @@ body{
 }
 
 .badge:hover{
-    background-color: #7a81cbcb;
+    background-color: #cfd0dacb;
     cursor: pointer;
     color:rgb(74, 217, 12);
 }
