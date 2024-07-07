@@ -46,7 +46,7 @@ body{
     top: 10px;
     left: 10px;
     background-color: rgba(11, 19, 113, 0.795);
-    color:rgb(74, 217, 12);
+    color: white;
     padding: 6px 12px;
     font-size: .9rem;
     font-weight: bold;
@@ -58,8 +58,8 @@ body{
 
 .badge:hover{
     background-color: #7a81cbcb;
-    color: white;
     cursor: pointer;
+    color:rgb(74, 217, 12);
 }
 
 .imgbox{
