@@ -45,7 +45,7 @@ body{
     position: absolute;
     top: 10px;
     left: 10px;
-    background:whitesmoke;
+    background-color: rgba(11, 19, 113, 0.795);
     color:rgb(74, 217, 12);
     padding: 6px 12px;
     font-size: .9rem;
@@ -57,7 +57,7 @@ body{
 }
 
 .badge:hover{
-    background-color: rgba(11, 19, 113, 0.795);
+    background-color: #7a81cbcb;
     color: white;
     cursor: pointer;
 }
