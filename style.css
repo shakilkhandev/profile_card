@@ -57,9 +57,9 @@ body{
 }
 
 .badge:hover{
-    background-color: #cfd0dacb;
+    background-color: #d69a0dcb;
     cursor: pointer;
-    color:rgb(74, 217, 12);
+    color:rgb(232, 235, 231);
 }
 
 .imgbox{
