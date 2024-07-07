@@ -156,13 +156,15 @@ body{
      font-size:2.5rem;
      text-shadow: 1px 3px #133fcffe;
 }
-
+p{
+    padding: .5 rem;
+}
 
 .btn-group button {
-    margin: 1rem;
+    margin: .5rem;
     width: 8rem;
     height: 3rem;
-    padding: 1rem;
+    padding: .8rem;
     background-color: rgba(255, 255, 255, 0.15);
     border: 1px solid rgba(255, 255, 255, 0.18);
     border-radius: 0.4rem;
@@ -176,8 +178,9 @@ body{
     font-weight: 600;
 }
 #hireme:hover{
+    border: 2px solid  #9fa0ab;
     cursor: pointer;
-    background-color: rgba(122, 219, 25, 0.648);
+    background-color: rgba(15, 171, 218, 0.648);
 }
 #follow{
     background-color: rgba(11, 19, 113, 0.795);
@@ -190,7 +193,7 @@ body{
     background-color: rgba(8, 71, 172, 0.884);
     cursor: pointer;
     color:white;
-    transition: top 0.4s ease;
+    border: 2px solid rgb(18, 81, 200);
 
     
 }
